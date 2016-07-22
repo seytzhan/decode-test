@@ -1,0 +1,12 @@
+$navbar-height: 50px;
+
+$sidebar-width: 340px;
+$sidebar-bg: #292c33;
+$sidebar-color: #ffffff;
+$sidebar-z-index: 10;
+
+@import "common";
+@import "navbar";
+@import "sidebar";
+@import "modalbar";
+@import "content";

@@ -1,0 +1,14 @@
+/* ==========================================================================
+ Modalbar
+========================================================================== */
+
+.modalbar {
+    visibility: hidden;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    background: $sidebar-bg;
+    width: $sidebar-width;
+    z-index: $sidebar-z-index;
+}
